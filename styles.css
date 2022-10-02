@@ -1,0 +1,56 @@
+body {
+    background-color: aquamarine; 
+}
+
+#text-1 {
+    color:rgb(244, 125, 74)
+}
+
+#text-2 {
+    color:rgb(151, 113, 240)
+}
+
+#text-3 {
+    color:rgb(29, 194, 240)
+}
+
+.image-1 {
+    width: 25%;
+}
+
+.image-2 {
+    width: 15%;
+}
+
+.image-3 {
+    width: 25%;
+}
+
+.navcontainer {
+    display:flex;
+    background-color:rgb(191, 227, 237);
+}
+
+.navbar:hover {
+    background-color:white;
+}
+
+.navbar {
+    font-size: 12px;
+    padding:1%;
+    text-decoration:none;
+}
+
+.headers {
+    font-size: 32px;
+}
+
+div.box {
+    border-style:groove;
+    display: inline-block; 
+    border-color: cornflowerblue;
+}
+
+table {
+    border-style:ridge;
+}
